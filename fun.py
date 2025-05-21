@@ -6,3 +6,6 @@ def funcao_x():
 
 def funcao_x():
  return "Versão Y"
+
+def funcao_x():
+ return "Versão combinada: X e Y"
